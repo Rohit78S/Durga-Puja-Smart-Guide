@@ -1,4 +1,4 @@
-//1
+//1s
 package main
 
 import (
